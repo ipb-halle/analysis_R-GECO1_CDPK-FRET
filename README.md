@@ -3,7 +3,7 @@ analysis_R-GECO1_CDPK-FRET
 
 ### Script for analysis of guard cells was adapted from Li et al. 2021 (doi.org/10.1111/nph.17202)
 
-#### This script reads the excel file with the calcium and CPK-FRET traces from the guard cell and performs a sychronisation analysis of the signals
+#### This script reads the excel file with the calcium and CPK-FRET traces from the guard cell and performs a synchronisation analysis of the signals
 
 ##### note: flg22 or ABA treatment after 3 min - data normalized 10 frames before treatment
 

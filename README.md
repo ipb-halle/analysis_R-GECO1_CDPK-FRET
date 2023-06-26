@@ -1,7 +1,7 @@
 analysis_R-GECO1_CDPK-FRET
 ## Synchronisation analysis of R-GECO1 and CDPK-FRET in guard cells
 
-### Script for analysis of guard cells was adapted from Li et al. 2021 (Li, K., Prada, J., Damineli, D.S.C., Liese, A., Romeis, T., Dandekar, T., Feijó, J.A., Hedrich, R. and Konrad, K.R. (2021), An optimized genetically encoded dual reporter for simultaneous ratio imaging of Ca2+ and H+ reveals new insights into ion signaling in plants. New Phytol, 230: 2292-2310. https://doi.org/10.1111/nph.17202)
+### Script for analysis of guard cells was adapted from Li et al. 2021 (Li, K., Prada, J., Damineli, D.S.C., Liese, A., Romeis, T., Dandekar, T., Feijó, J.A., Hedrich, R. and Konrad, K.R. (2021), An optimized genetically encoded dual reporter for simultaneous ratio imaging of Ca<sup>2+</sup> and H<sup>+</sup> reveals new insights into ion signaling in plants. New Phytol, 230: 2292-2310. https://doi.org/10.1111/nph.17202)
 
 #### This script reads the excel file with the calcium and CPK-FRET traces from the guard cell and performs a synchronisation analysis of the signals
 
